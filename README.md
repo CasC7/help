@@ -1,10 +1,5 @@
 # help
 Aquí tienes una conclusión clara y formal para tu práctica:
 
-**Conclusión**
-
-La fase de reconocimiento y enumeración es una de las etapas más importantes dentro de un proceso de pentesting, ya que permite obtener información detallada sobre el objetivo antes de realizar cualquier análisis o prueba de explotación. Mediante estas actividades es posible identificar puertos abiertos, servicios activos, versiones de software y, en muchos casos, el sistema operativo utilizado por el objetivo, lo que facilita comprender su superficie de ataque y detectar posibles vulnerabilidades.
-
-El uso de herramientas especializadas como **Nmap**, **theHarvester**, **Recon-ng**, **WhatWeb** y **Gobuster** permitió automatizar la recopilación y análisis de información, mejorando la precisión y eficiencia del proceso. Estas herramientas facilitaron la identificación de servicios expuestos, tecnologías implementadas y recursos accesibles, tanto a nivel de infraestructura como de aplicaciones web.
-
-En conjunto, esta práctica demuestra que una adecuada fase de reconocimiento y enumeración es fundamental para planificar evaluaciones de seguridad más efectivas, ya que proporciona una visión clara del entorno objetivo y ayuda a enfocar los esfuerzos en los puntos con mayor probabilidad de riesgo.
+cap4:
+Mediante herramientas de captura y análisis de tráfico como Wireshark, tcpdump y TShark, fue posible interceptar y analizar comunicaciones de red, identificando protocolos inseguros que transmiten información sensible en texto claro, como FTP y Telnet. Esta práctica permitió comprender la importancia del cifrado en las comunicaciones y el valor del análisis forense de tráfico para detectar vulnerabilidades y fortalecer la seguridad de la red.
