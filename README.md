@@ -1,3 +1,4 @@
+<img width="1920" height="1200" alt="help" src="https://github.com/user-attachments/assets/0128ad13-00cf-4701-ba42-55055937bd4d" />
 # help
 Aquí tienes una conclusión clara y formal para tu práctica:
 
